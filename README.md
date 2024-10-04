@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/appajinagarajadheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="appajinagarajadheeraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/appaji-dheeraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="appajinagarajadheeraj" height="30" width="40" /></a>
 <a href="https://instagram.com/appaji_dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="appaji_dheeraj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/appajidheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="appajidheeraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/appajinagarajadheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="appajinagarajadheeraj" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/imB0ykjyZ2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="appajinagarajadheeraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
