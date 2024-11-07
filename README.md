@@ -27,11 +27,10 @@ Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&log
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
 <img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<!--<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>-->
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
@@ -41,6 +40,20 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
 
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://api.badgr.io/public/assertions/JhAzk13bSl6r_MMoF8kw1Q?identity__email=dheeraj.nagaraja%40gmail.com">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
+<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
+</div>
+</details> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appajidheeraj&label=Profile%20views&color=0e75b6&style=flat" alt="appajidheeraj" /> </p>
 
