@@ -7,15 +7,15 @@
   <a href="https://www.linkedin.com/in/appaji-dheeraj/">LinkedIn</a> - 
   <a href="https://x.com/appaji_dhe22452">Twitter</a> -
   <a href="https://x.com/sanjay_kv_">Instagram</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+  <a href="">Google Featured</a> -
+  <a href="">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Tech Enthusiast | <br>
 ⚡ Check my ✨ [Website](https://dheerajnagaraja.wixsite.com/portfolio) <br>
-📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) <br>
+📫 How to reach me: [Schedule Call]() <br>
 <!--- Adding Tech Stack open Section -->
 
 
@@ -43,15 +43,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://api.badgr.io/public/assertions/JhAzk13bSl6r_MMoF8kw1Q?identity__email=dheeraj.nagaraja%40gmail.com">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
-<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
+<img src="download.png" width="100px" height="100px" />
 </div>
 </details> 
 
