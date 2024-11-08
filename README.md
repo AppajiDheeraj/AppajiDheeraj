@@ -29,7 +29,8 @@
 <img src="download.png" width="100px" height="100px" />
 </div>
 </details>
-
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appajidheeraj&label=Profile%20views&color=0e75b6&style=flat" alt="appajidheeraj" /> </p>
 
@@ -44,13 +45,14 @@
 <a href="https://codeforces.com/profile/appajidheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="appajidheeraj" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/imB0ykjyZ2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="appajinagarajadheeraj" height="30" width="40" /></a>
 </p>
-
+<br>
 
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
   ✨ <br>
   ✨ <br>
 </details>
+<br>
 
 
 ## GSSOC(24) Badges 🪶
@@ -69,6 +71,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+-----------------------------------------------------------
 <p align="center">
   <br>
 <b> Show some ❤️ by starring some of the repositories!.</p> </div>
