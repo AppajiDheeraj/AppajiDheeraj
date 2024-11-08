@@ -19,7 +19,8 @@
 <!--- Adding Tech Stack open Section -->
 
 
- <summary><b>🛠 Tech Stack</b></summary><br>
+<summary><b>🛠 Tech Stack</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -32,6 +33,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
+  </div>
 
 <details>
   <summary>Certifications</summary>
