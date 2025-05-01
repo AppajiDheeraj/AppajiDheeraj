@@ -14,7 +14,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Tech Enthusiast | <br>
-⚡ Check my ✨ [Website](https://dheerajnagaraja.wixsite.com/portfolio) <br>
+⚡ Check my ✨ [Website](https://dheerajtech-portfolio.netlify.app/) <br>
 📫 How to reach me **dheeraj.nagaraja@gmail.com** <br>
 
 <h3 align="left">Languages and Tools:</h3>
