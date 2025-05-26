@@ -129,17 +129,18 @@
 <br>
 
 ## 📊 GitHub Stats
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=AppajiDheeraj&theme=dark&hide_border=true" height="200px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppajiDheeraj&theme=dark&hide_border=true&layout=compact" height="200px"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AppajiDheeraj&theme=dark&hide_border=true&show_icons=true&count_private=true" height="200px"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AppajiDheeraj&theme=dark&hide_border=true" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppajiDheeraj&theme=dark&hide_border=true&layout=compact" height="200px"/>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AppajiDheeraj&theme=dark&hide_border=true&show_icons=true&count_private=true" height="200px"/>
-
-</div>
 
 ---
 
