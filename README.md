@@ -3,7 +3,7 @@
 
   <!--- Adding Header Elements -->
 <p align="center">
-  <a href="[https://dheerajnagaraja.wixsite.com/portfolio](https://dheerajtech-portfolio.netlify.app/)">Portfolio</a> -
+  <a href="https://dheerajtech-portfolio.netlify.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/appaji-dheeraj/">LinkedIn</a> - 
   <a href="https://x.com/appaji_dhe22452">Twitter</a> -
   <a href="https://www.instagram.com/appaji_dheeraj/">Instagram</a> -
