@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/appaji-dheeraj/">Appaji Nagaraja Dheeraj</h1>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://www.linkedin.com/in/appaji-dheeraj/">Appaji Nagaraja Dheeraj</a>
+</h1>
 <h3 align="center">I'm a passionate <Tech_Enthusiast> diving into new technologies,imporoving my logical and analytical thinking and problem solving skills.</h3>
 
   <!--- Adding Header Elements -->
@@ -7,7 +9,7 @@
   <a href="https://www.linkedin.com/in/appaji-dheeraj/">LinkedIn</a> - 
   <a href="https://x.com/appaji_dhe22452">Twitter</a> -
   <a href="https://www.instagram.com/appaji_dheeraj/">Instagram</a> -
-  <a href="">Contact me.</a> 
+  <a href="mailto:dheeraj.nagaraja@gmail.com">Contact</a>
 </p>
 
 <br/>
@@ -21,7 +23,7 @@
 />
 
 ✨ **Code addict. Lifelong learner.**  
-✨ Tech Enthusiast | Web Designer & Developer | Creative Technophile  
+Computer Science student | Systems & AI builder | Full-stack developer<br/>
 ⚡ Check my ✨ [Website](https://dheerajbuilds.com/)  
 📫 Reach me at **dheeraj.nagaraja@gmail.com**
 
@@ -31,27 +33,18 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-  ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -79,6 +72,14 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
 - 🏓 **[Ping-Pong-Game](https://github.com/AppajiDheeraj/Ping-Pong-Game)**: A real-time, hand-tracking 2-player Ping Pong game powered by computer vision, offering a controller-free interactive experience.
 - 🖐️ **[Rock-Paper-Scissors](https://github.com/AppajiDheeraj/Rock-Paper-Scissors)**: A computer vision-powered game where players compete against an AI using hand gestures detected via webcam.
 - 📈 **[ticket_tribe](https://github.com/AppajiDheeraj/ticket_tribe)**: A daily stock-prediction game where friends compete in private "Tribes" to predict market movements.
+
+## Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/AppajiDheeraj/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/AppajiDheeraj/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ## GitHub Contributions Snake
 
@@ -142,8 +143,6 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
