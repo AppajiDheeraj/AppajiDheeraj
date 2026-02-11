@@ -60,18 +60,19 @@ Computer Science student | Systems & AI builder | Full-stack developer<br/>
 
 Appaji Dheeraj's current projects showcase a diverse range of technical interests, with a notable focus on AI-driven platforms, full-stack SaaS applications, and interactive computer vision tools. These projects demonstrate proficiency in modern frameworks like Next.js, React, and Tailwind CSS, alongside low-level system programming and real-time media processing.
 
-- 🚀 **[Meet.AI](https://github.com/AppajiDheeraj/meetai)**: A powerful, full-stack AI platform designed for creating and managing custom AI agents. It features robust authentication, AI-powered meeting assistants with GPT-4o, and premium usage-based limits, providing an intuitive, production-ready experience.
-- 🌌 **[Aura](https://github.com/AppajiDheeraj/AURA)**: A multimodal, voice-first AI assistant that serves as a personal command center. It leverages LiveKit for real-time audio and GPT-4o for system control, information retrieval, and communication, all through a futuristic, reactive user interface.
-- 📚 **[SparkNotes](https://github.com/AppajiDheeraj/sparknotes)**: A lightweight web application that summarizes YouTube videos into digestible sections and mind maps. It features "Xtended Thinking" for deeper analysis and supports PDF exports of generated summaries and visual maps.
-- 🎨 **[Logofy.ai](https://github.com/AppajiDheeraj/logofy)**: An AI logo generator built with Next.js and React. It uses Google's Gemini API to brainstorm design concepts and Pollinations.ai to generate unique, visually appealing logos from simple text prompts.
-- ⚡ **[GoFetch](https://github.com/AppajiDheeraj/GoFetch)**: A high-speed, concurrent file downloader implemented in Go. It utilizes parallel HTTP range requests to split and download files in chunks, optimizing performance for large-scale data retrieval.
-- 🌐 **[GoResolve](https://github.com/AppajiDheeraj/GoResolve)**: A minimal, high-performance DNS server built in Go to explore low-level DNS mechanisms, supporting query parsing and standard domain resolution.
-- 🤖 **[AIReviewMate](https://github.com/AppajiDheeraj/AIReviewMate)**: An AI-powered code reviewer that provides real-time analysis and suggests improvements, with seamless integration for GitHub Pull Requests.
-- 😎 **[DevFun](https://github.com/AppajiDheeraj/DevFun)**: A humorous and interactive terminal app built with Python and Textual. it delivers developer-tailored jokes, roasts, and excuses to bring a smile to the debugging process.
-- 🎨 **[Air Canvas](https://github.com/AppajiDheeraj/Air-Canvas)**: An advanced computer vision application that allows users to draw in the air using hand gestures and a webcam, featuring multiple drawing modes and a smooth UI.
-- 🏓 **[Ping-Pong-Game](https://github.com/AppajiDheeraj/Ping-Pong-Game)**: A real-time, hand-tracking 2-player Ping Pong game powered by computer vision, offering a controller-free interactive experience.
-- 🖐️ **[Rock-Paper-Scissors](https://github.com/AppajiDheeraj/Rock-Paper-Scissors)**: A computer vision-powered game where players compete against an AI using hand gestures detected via webcam.
-- 📈 **[ticket_tribe](https://github.com/AppajiDheeraj/ticket_tribe)**: A daily stock-prediction game where friends compete in private "Tribes" to predict market movements.
+* 🚀 **[Meet.AI](https://github.com/AppajiDheeraj/meetai)**: Full-stack AI platform for building and managing custom AI agents with authentication and GPT-4o-powered meeting assistance.
+* 🌌 **[Aura](https://github.com/AppajiDheeraj/AURA)**: Voice-first multimodal AI assistant using LiveKit and GPT-4o for real-time system control and communication.
+* 📚 **[SparkNotes](https://github.com/AppajiDheeraj/sparknotes)**: Web app that converts YouTube videos into structured summaries and interactive mind maps with export support.
+* 🎨 **[Logofy.ai](https://github.com/AppajiDheeraj/logofy)**: AI logo generator that transforms text prompts into branded logo designs using Gemini and image APIs.
+* ⚡ **[GoFetch](https://github.com/AppajiDheeraj/GoFetch)**: Concurrent file downloader in Go using parallel HTTP range requests for high-speed downloads.
+* 🌐 **[GoResolve](https://github.com/AppajiDheeraj/GoResolve)**: Lightweight DNS server in Go implementing query parsing and domain resolution.
+* 🤖 **[AIReviewMate](https://github.com/AppajiDheeraj/AIReviewMate)**: AI-powered code reviewer that analyzes pull requests and suggests improvements.
+* 😎 **[DevFun](https://github.com/AppajiDheeraj/DevFun)**: Interactive terminal app delivering developer-themed jokes and roasts using Python and Textual.
+* 🎨 **[Air Canvas](https://github.com/AppajiDheeraj/Air-Canvas)**: Computer vision app enabling gesture-based air drawing with real-time hand tracking.
+* 🏓 **[Ping-Pong-Game](https://github.com/AppajiDheeraj/Ping-Pong-Game)**: Controller-free 2-player Ping Pong game powered by real-time hand tracking.
+* 🖐️ **[Rock-Paper-Scissors](https://github.com/AppajiDheeraj/Rock-Paper-Scissors)**: Computer vision game where players compete against AI using webcam-detected hand gestures.
+* 📈 **[ticket_tribe](https://github.com/AppajiDheeraj/ticket_tribe)**: Social stock prediction game where friends compete in private groups to forecast market trends.
+
 
 ## Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
