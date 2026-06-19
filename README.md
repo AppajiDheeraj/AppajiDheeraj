@@ -103,8 +103,6 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Appaji%20Dheeraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appaji-dheeraj/)
 [![X (Twitter)](https://img.shields.io/badge/-@appaji_dhe22452-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/appaji_dhe22452)
 [![Instagram](https://img.shields.io/badge/-@appaji_dheeraj-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/appaji_dheeraj)
-[![LeetCode](https://img.shields.io/badge/-imB0ykjyZ2-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/imB0ykjyZ2/)
-[![Codeforces](https://img.shields.io/badge/-appajidheeraj-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/appajidheeraj)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AppajiDheeraj)
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/appajidheeraj)
 
@@ -131,18 +129,15 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+<img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </div>
 
 <div align="center">
