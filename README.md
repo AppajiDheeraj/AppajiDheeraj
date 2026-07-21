@@ -1,15 +1,17 @@
 <h1 align="center">
   Hi 👋, I'm <a href="https://www.linkedin.com/in/appaji-dheeraj/">Appaji Nagaraja Dheeraj</a>
 </h1>
-<h3 align="center">I'm a passionate <Tech_Enthusiast> diving into new technologies,imporoving my logical and analytical thinking and problem solving skills.</h3>
+<h3 align="center">Building products people enjoy using, powered by thoughtful engineering</h3>
 
   <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://dheerajbuilds.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/appaji-dheeraj/">LinkedIn</a> - 
-  <a href="https://x.com/appaji_dhe22452">Twitter</a> -
-  <a href="https://www.instagram.com/appaji_dheeraj/">Instagram</a> -
-  <a href="mailto:dheeraj.nagaraja@gmail.com">Contact</a>
+  <a href="https://dheerajbuilds.com">Portfolio</a> •
+  <a href="https://github.com/AppajiDheeraj">GitHub</a> •
+  <a href="https://www.linkedin.com/in/appaji-dheeraj">LinkedIn</a> •
+  <a href="https://x.com/AppajiDheeraj">X</a> •
+  <a href="https://www.youtube.com/@AppajiDheeraj">YouTube</a> •
+  <a href="https://www.instagram.com/dheeraj.builds">Instagram</a> •
+  <a href="mailto:buildbydheeraj@gmail.com">Email</a>
 </p>
 
 <br/>
@@ -22,10 +24,10 @@
   align="right"
 />
 
-✨ **Code addict. Lifelong learner.**  
-Computer Science student | Systems & AI builder | Full-stack developer<br/>
-⚡ Check my ✨ [Website](https://dheerajbuilds.com/)  
-📫 Reach me at **dheeraj.nagaraja@gmail.com**
+✨ **Product builder. Lifelong learner.**  
+- Computer Science student | Systems & AI builder | Full-stack developer<br/>
+- Check my ✨ [Website](https://dheerajbuilds.com/)
+- Reach me at **buildbydheeraj@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -92,13 +94,6 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
   </picture>
 </p>
 
-## What I'm Doing
-
-- **Designing and shipping** — turning ideas into usable software, not just demos  
-- **AI-driven experimentation** — testing how intelligent systems can assist developers and users  
-- **Rapid prototyping mindset** — building, breaking, and improving continuously  
-- **Engineering growth** — focusing on scalable thinking, clean abstractions, and real impact
-
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Appaji%20Dheeraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appaji-dheeraj/)
 [![X (Twitter)](https://img.shields.io/badge/-@appaji_dhe22452-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/appaji_dhe22452)
@@ -125,8 +120,9 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
 
 </details>
 
-<br/>
+<details>
 
+<summary>Open Source Achievements</summary>
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -140,9 +136,12 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
   <img src="https://raw.githubusercontent.com/AppajiDheeraj/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </div>
 
+</details>
+
+<br />
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
   <p style="font-weight: bold; margin-top: 10px;">
-    Show some ❤️ by starring some of the repositories!
+    If my work helps you, consider ⭐ starring a repository or following my journey.
   </p>
 </div>
