@@ -25,9 +25,9 @@
 />
 
 ✨ **Product builder. Lifelong learner.**  
-- Computer Science student | Systems & AI builder | Full-stack developer<br/>
-- Check my ✨ [Website](https://dheerajbuilds.com/)
-- Reach me at **buildbydheeraj@gmail.com**
+🎓 Computer Science student • AI • Systems • Full-stack<br/>
+🌐 Check my ✨ [Website](https://dheerajbuilds.com/)<br />
+📫 Reach me at **buildbydheeraj@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,8 +59,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appajidheeraj&label=Profile%20views&color=0e75b6&style=flat" alt="appajidheeraj" /> </p>
 
 ## Current Projects
-
-Appaji Dheeraj's current projects showcase a diverse range of technical interests, with a notable focus on AI-driven platforms, full-stack SaaS applications, and interactive computer vision tools. These projects demonstrate proficiency in modern frameworks like Next.js, React, and Tailwind CSS, alongside low-level system programming and real-time media processing.
 
 * 🚀 **[Meet.AI](https://github.com/AppajiDheeraj/meetai)**: Full-stack AI platform for building and managing custom AI agents with authentication and GPT-4o-powered meeting assistance.
 * 🌌 **[Aura](https://github.com/AppajiDheeraj/AURA)**: Voice-first multimodal AI assistant using LiveKit and GPT-4o for real-time system control and communication.
@@ -96,8 +94,8 @@ Appaji Dheeraj's current projects showcase a diverse range of technical interest
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Appaji%20Dheeraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appaji-dheeraj/)
-[![X (Twitter)](https://img.shields.io/badge/-@appaji_dhe22452-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/appaji_dhe22452)
-[![Instagram](https://img.shields.io/badge/-@appaji_dheeraj-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/appaji_dheeraj)
+[![X (Twitter)](https://img.shields.io/badge/-@AppajiDheeraj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/appaji_dhe22452)
+[![Instagram](https://img.shields.io/badge/-@dheeraj.builds-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/appaji_dheeraj)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AppajiDheeraj)
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/appajidheeraj)
 
